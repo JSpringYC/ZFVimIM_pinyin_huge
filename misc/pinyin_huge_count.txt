@@ -1,4 +1,5 @@
 a 2 1
+ban 1
 hao 1
 nihao 2
 nishishui 1
