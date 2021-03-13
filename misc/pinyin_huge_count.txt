@@ -1,0 +1,6 @@
+a 2 1
+hao 1
+nihao 2
+nishishui 1
+wa 1
+wo 2
